@@ -1,3 +1,6 @@
 This is some text to add to this file.
 Next step is to use git add to add it to the 
 git staging area.
+Adding some more text to practice a git add to stage the file,
+a git commit to commit the file in local storage,
+and a git push to update the GitHub repo version.
